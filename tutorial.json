@@ -44,7 +44,7 @@
       }
     ],
     "webhook": {
-      "url": "http://localhost:3000/coderoad-challenge-completed",
+      "url": "http://host.docker.internal:3000/coderoad-challenge-completed",
       "events": {
         "init": false,
         "reset": false,
